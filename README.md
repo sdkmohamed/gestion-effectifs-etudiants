@@ -1,1 +1,1 @@
-"# Gestion des Effectifs êtudiants" 
+"# Gestion des Effectifs √©tudiants" 
